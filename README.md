@@ -13,7 +13,7 @@
 
 
 ## Description
-ToungeFit is an interactive game developed for child patients. The game utilises Unity and Arduino Mega to create engaging therapeutic experiences for young patients undergoing treatment.
+ToungeFit is an interactive game developed in an Android system powered with unity for child patients. The game utilises Unity and Arduino Mega to create engaging therapeutic experiences for young patients undergoing treatment.
 
 ## My Role
 - Project Manager
