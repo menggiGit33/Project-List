@@ -29,7 +29,7 @@ ToungeFit is an interactive game developed in an Android system powered with uni
 
 # Cashless Vending Machine
 ![WhatsApp Image 2024-05-23 at 22 10 29](https://github.com/user-attachments/assets/aaa1fe6b-c551-4f84-abc7-9f091b777487)
-(https://github.com/menggiGit33/Project-List/assets/72879614/6cfc6bd8-9d75-4977-88bd-f4648fcd46aa)
+
 
 ### Description
 This cutting-edge system powered by ESP32 allows users to efficiently choose their desired quantity and temperature of water, process payments seamlessly using an integrated QRIS API, and dispense fresh water through a sophisticated interface displayed on a TFT LCD screen
