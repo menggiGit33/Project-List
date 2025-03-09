@@ -7,10 +7,6 @@
 # ToungeFit
 
 ![resized](https://github.com/menggiGit33/Project-List/assets/72879614/c55fd325-a948-4a4c-92ac-ccfd3156f13b)
-![WhatsApp Image 2024-06-06 at 05 04 26](https://github.com/menggiGit33/Project-List/assets/72879614/7ab79e14-e82f-4c42-8ae6-ee91ee9aab48)
-![WhatsApp Image 2024-06-06 at 05 05 29](https://github.com/menggiGit33/Project-List/assets/72879614/a850d6b2-84e7-4515-9222-a82dcfda83c0)
-
-
 
 ### Description
 ToungeFit is an interactive game developed in an Android system powered with unity for child patients. The game utilises Unity and Arduino Mega to create engaging therapeutic experiences for young patients undergoing treatment.
@@ -31,8 +27,9 @@ ToungeFit is an interactive game developed in an Android system powered with uni
 - Enhanced patient engagement during therapy sessions
 
 
-# Project Name: Vending Machine
-![WhatsApp Video 2024-05-16 at 02 (online-video-cutter com)](https://github.com/menggiGit33/Project-List/assets/72879614/6cfc6bd8-9d75-4977-88bd-f4648fcd46aa)
+# Cashless Vending Machine
+![WhatsApp Image 2024-05-23 at 22 10 29](https://github.com/user-attachments/assets/aaa1fe6b-c551-4f84-abc7-9f091b777487)
+(https://github.com/menggiGit33/Project-List/assets/72879614/6cfc6bd8-9d75-4977-88bd-f4648fcd46aa)
 
 ### Description
 This cutting-edge system powered by ESP32 allows users to efficiently choose their desired quantity and temperature of water, process payments seamlessly using an integrated QRIS API, and dispense fresh water through a sophisticated interface displayed on a TFT LCD screen
