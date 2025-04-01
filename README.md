@@ -7,8 +7,6 @@
 # Tounge Power Meassurement Game
 
 ![resized](https://github.com/menggiGit33/Project-List/assets/72879614/c55fd325-a948-4a4c-92ac-ccfd3156f13b)
-![WhatsApp Image 2024-06-06 at 05 05 29](https://github.com/user-attachments/assets/b15cc1bc-89f9-46d5-b767-92029468fccf)
-
 
 ## Description
 Tounge Power Meassurement Game is an interactive game developed in an Android system. The game utilises Unity and Arduino Mega with Bluetooth connectivity to create engaging therapeutic experiences for young patients undergoing treatment. Using a specialized bud integrated with an MPX5700 pressure sensor, When the user applies pressure to the bud, the sensor detects the force and translates it into real-time interactive actions in a game.
