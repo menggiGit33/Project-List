@@ -12,19 +12,31 @@
 ToungeFit is an interactive game developed in an Android system powered with unity for child patients. The game utilises Unity and Arduino Mega to create engaging therapeutic experiences for young patients undergoing treatment.
 
 ### My Role
-- Project Manager
-- Led a team of developers, designers, and embedded engineers throughout the project lifecycle.
-- Coordinated with hospital staff to ensure the game met therapeutic goals and requirements.
+
+#### Project Manager
+- Led a team of developers, designers, and IoT engineers throughout the project lifecycle.
+- Coordinated with hospital staff to ensure the game aligned with the goals and requirements.
+- Ensure the Product is delivered on time based on the deadline given
+  
+#### IoT Engineer: 
+- Designed Block Diagrams and Wiring Diagrams for overall system
+- Designed GUI for TFT LCD
+- Assemble IoT device based on Designed Blueprint
+- Integrated Arduino with Bluetooth Unity API  
 
 ### Technologies/Methodologies Used
 - Unity
 - C++
 - Arudino Mega
+- Bluetooth
 - Agile Methodology
 
 ### Key Achievements
-- Successfully delivered an interactive game that received positive feedback from hospital staff and patients.
+- Successfully delivered product and received positive feedback from hospital staff and patients.
 - Enhanced patient engagement during therapy sessions
+
+### Challenges
+The product was initially delivered on time, but due to new user requirements timeline was extended by three weeks. After analyzing the new requirements and their pain points, I adjusted the plan based on the development team’s capabilities and handed it over to them. We ultimately delivered the product two weeks ahead of the revised deadline.
 
 
 # Cashless Vending Machine
@@ -35,17 +47,28 @@ ToungeFit is an interactive game developed in an Android system powered with uni
 This cutting-edge system powered by ESP32 allows users to efficiently choose their desired quantity and temperature of water, process payments seamlessly using an integrated QRIS API, and dispense fresh water through a sophisticated interface displayed on a TFT LCD screen
 
 ### My Role
-- Project Manager
+
+#### Project Manager:
 - Spearheaded the project from initial concept to final deployment.
 - Coordinated the hardware and software development teams to ensure seamless integration of all components.
 - Implemented Scrum methodology to enhance team collaboration and productivity.
 
+#### IoT Engineer: 
+- Designed Block Diagrams and Wiring Diagrams for overall system
+- Designed GUI for TFT LCD
+- Integrate ESP32, TFT LCD into Water Dispenser
+- Integrate ESP32 with QRIS API for gateway payment
+
 ### Technologies/Methodologies Used
 - ESP32 Microcontroller
 - C++
+- Wifi 
 - Nextion LCD
 - Scrum Methodology
 
 ### Key Achievements
 - Delivered a fully functional smart vending machine that utilizes IoT technology for efficient inventory management.
 - Enhanced user experience.
+
+### Challenges
+The QRIS API can only be generated two weeks before registration, delaying integration. I am troubleshooting the devices and following up with QRIS on validation.
