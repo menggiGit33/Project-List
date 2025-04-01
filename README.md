@@ -1,15 +1,15 @@
-# List Project :
+# Table of contents
 
-## - ToungeFit
-## - Vending Machine
+- [Tounge Power Meassurement Game](https://github.com/menggiGit33/Project-List?tab=readme-ov-file#toungefit)
+- [Cashless Vending Machine](https://github.com/menggiGit33/Project-List?tab=readme-ov-file#cashless-vending-machine)
 
 
-# ToungeFit
+# Tounge Power Meassurement Game
 
 ![resized](https://github.com/menggiGit33/Project-List/assets/72879614/c55fd325-a948-4a4c-92ac-ccfd3156f13b)
 
 ## Description
-ToungeFit is an interactive game developed in an Android system powered with unity for child patients. The game utilises Unity and Arduino Mega to create engaging therapeutic experiences for young patients undergoing treatment.
+Tounge Power Meassurement Game is an interactive game developed in an Android system powered with unity for child patients. The game utilises Unity and Arduino Mega to create engaging therapeutic experiences for young patients undergoing treatment.
 
 ## My Role
 
