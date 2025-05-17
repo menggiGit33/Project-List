@@ -2,6 +2,7 @@
 
 - [Tounge Power Meassurement Game](https://github.com/menggiGit33/Project-List?tab=readme-ov-file#toungefit)
 - [Cashless Vending Machine](https://github.com/menggiGit33/Project-List?tab=readme-ov-file#cashless-vending-machine)
+- [Tableau Dashboard] (https://public.tableau.com/app/profile/althaf.yudhistira/vizzes)
 
 
 # Tounge Power Meassurement Game
